@@ -11,7 +11,7 @@ set up and running a simple agent in less than 20 minutes.
     ---
     Create your first Python ADK agent in minutes.
 
-    [:octicons-arrow-right-24: Start with Python](python.md) <br>
+    [:octicons-arrow-right-24: Start with Python](GitHub.md) <br>
 
 -   :fontawesome-brands-js:{ .lg .middle } **TypeScript Quickstart**
 
